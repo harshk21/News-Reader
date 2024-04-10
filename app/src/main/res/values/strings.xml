@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="headline_menu">Headlines</string>
+    <string name="search_menu">Search</string>
+    <string name="news_headlines">News headlines</string>
+
+    <string-array name="filter_list">
+        <item>General</item>
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Health</item>
+    </string-array>
+</resources>
