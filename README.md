@@ -21,4 +21,22 @@ This project is a basic news reader app with background change in a RecyclerView
 * Implemented kotlin coroutines where ever was possible with proper API states (Loading, Error & Success).
 * Implemented MVVM architecture and followed simple packaging.
 
+#### Folder structure:
+
+   ![image](https://github.com/harshk21/NewsReaderApp/assets/26200591/7f046bf0-9ac8-40d0-99d1-1740426af674)
+
+#### Artifacts:
+
+![Group 1](https://github.com/harshk21/NewsReaderApp/assets/26200591/ffaa0b65-1abe-4a0d-a6c1-4a0b91644d2d)
+
+
+
+
+
+
+
+
+
+
+
 
